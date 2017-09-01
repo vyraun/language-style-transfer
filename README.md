@@ -33,3 +33,7 @@ Check <code>code/options.py</code> for all running options.
 
 ## Dependencies
 Python >= 2.7, TensorFlow 0.12.0
+
+> sudo pip install tensorflow==0.12.0
+
+
